@@ -16,6 +16,7 @@ namespace SimpleCalculator
         double Operand2;
         double Result;
         string Operation;
+
         public Form1()
         {
             InitializeComponent();
